@@ -5,9 +5,13 @@ function App() {
   return (
     <div className="App">
         <p>
-          This is Gabe checking up whether he can change his branch. Attempt 2
+          Could be something 
         </p>
           Learn React real quick only 2 days left
+        <p> Adding another check to make sure i can replicate it when I'm confused
+          later
+        </p>
+
     </div>
   );
 }
