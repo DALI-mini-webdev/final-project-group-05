@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
         <p>
-          This is Gabe checking up whether he can change his branch.
+          This is Gabe checking up whether he can change his branch. Attempt 2
         </p>
-          Learn React
+          Learn React real quick only 2 days left
     </div>
   );
 }
