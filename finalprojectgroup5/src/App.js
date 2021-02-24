@@ -1,10 +1,12 @@
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
-import LewistonMap from './LewistonMap.jpg';
+import LewistonMap from './LewistonMap.png';
+import Navbar from "./components/Navbar/Navbar";
 
 function App() {
   return (
     <div className="App">
+      <Navbar />
       <div className= "Title">
        <h1> Testing Information</h1>
       </div>
