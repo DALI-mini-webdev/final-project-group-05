@@ -1,23 +1,27 @@
 import logo from './logo.svg';
 import './App.css';
+import LewistonMap from './LewistonMap.jpg';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className= "Title">
+       <h1> Testing Information</h1>
+      </div>
+         <h2> Map </h2>
+         <div>
+            <img src={LewistonMap} height="400px" width="500px" alt="map" />
+         </div>
+         <h2> Links</h2>
+          <a href= "https://www.maine.gov/covid19/restartingmaine/keepmainehealthy/testing">
+            <h3> Click here for Maine Government Site-Covid info</h3>
+          </a>
+          <a href = "https://www.cmhc.org/about-us/cmh-alert/">
+          <h3> Click Here for Central Maine Healthcare </h3>
+          </a>
+          <a href = "https://www.cvs.com/store-locator/cvs-pharmacy-address/8+Union+Street-Auburn-ME-04210/storeid=2382">
+            <h3> Click Here for CVS Pharmacy</h3>
+          </a>
     </div>
   );
 }
