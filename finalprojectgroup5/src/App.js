@@ -16,5 +16,5 @@ function App() {
     </div>
   );
 }
-
+//ideally make this page a different filename, and then later connect to app.js
 export default App;
