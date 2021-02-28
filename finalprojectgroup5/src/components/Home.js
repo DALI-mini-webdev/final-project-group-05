@@ -23,13 +23,13 @@ class Home extends Component {
             <button className="button" onClick={buttonFunction2}>no</button>
           </h4>
           <div className="info-container">
-            <div><h3>Symptom List + Self check: </h3><p> (information overview + link here) <a href = "http://localhost:3000/Symptom%20List%20+%20Self%20check">Self Check Assessment</a></p></div>
+            <div><h3>Symptom List + Self check: </h3><p> Concerned about your health? Use this test to self-check to see if you are eligible for a COVID-19 test or need to quarentine. <a href = "http://localhost:3000/Symptom%20List%20+%20Self%20check">Self Check Assessment</a></p></div>
           </div>
           <div className="info-container">
-            <div><h3>Testing/Vaccine Information: </h3><p> (information overview + link here) <a href = "http://localhost:3000/Vaccine%20Information">Testing/Vaccine Information</a></p></div>
+            <div><h3>Testing/Vaccine Information: </h3><p> Find information on where to get tested in the Lewiston/Aurburn area as well as information on vaccination eligibility and clinic locations  <a href = "http://localhost:3000/Vaccine%20Information">Testing/Vaccine Information</a></p></div>
           </div>
           <div className="info-container">
-            <div><h3>Other Resources: </h3><p> (information overview + link here) <a href = "http://localhost:3000/Other%20Resources">Other Resources</a></p></div>
+            <div><h3>Other Resources: </h3><p> More information and resources concerning the COVID-19 pandemic. Find more health information conerning Lewiston Public School community, state-wide COVID-19 updates, as well as more genderal COVID-19 information through the CDC and NAMI <a href = "http://localhost:3000/Other%20Resources">Other Resources</a></p></div>
           </div>
           <div className="tracker-container">
             <div><h2>ANDROSCOGGIN COUNTY COVID-19 TRACKER:</h2><p> insert API </p></div>
