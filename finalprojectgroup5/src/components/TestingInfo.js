@@ -1,5 +1,5 @@
 import react, {Component} from 'react';
-import LewistonMap from './LewistonMap.jpg';
+import LewistonMap from '../images/LewistonMap.png';
 
 class TestingInfo extends Component {
     render() {
