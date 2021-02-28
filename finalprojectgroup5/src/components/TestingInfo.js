@@ -3,6 +3,15 @@ import LewistonMap from '../images/LewistonMap.png';
 
 class TestingInfo extends Component {
     render() {
+        const VaccineLocations = [
+            "St. Mary's Regional Medical Center — Call 207-520-2917 to make an appointment",
+            "Central Maine Medical Center — Call 207-755-3100 to make an appointment",
+        ];
+        const VaccineMap = VaccineLocations.map((Vaccine) => {
+        return (
+      <p>{Vaccine}</p>
+        )
+    });
         return ( 
             <div>
                 <h1>
@@ -31,6 +40,12 @@ class TestingInfo extends Component {
                     <li>June: Age 30 and older</li>
                     <li>July: All ages (including children)</li>
                 </ul>
+                <h4>Lewiston/Auburn Vaccine Administration Locations:</h4>
+                <h5>Health Care Centers:</h5>
+                <div>{VaccineMap}</div>
+                <h5>Pharmacies:</h5>
+                <p>To schedule an appointment at Walgreens, visit <a href="https://www.walgreens.com/findcare/vaccination/covid-19">Walgreens.com/ScheduleVaccine</a></p>
+                <p>To schedule an appointment at Walmart, visit <a href="https://www.walmart.com/cp/1228302">www.walmart.com/COVIDvaccine</a></p>
                 <h4>Visit Maine's COVID-19 Vaccination Dashboard</h4>
                 <p>view updated information about COVID-19 vaccine doses administered statewide</p>
                 <a href="https://www.maine.gov/covid19/vaccines/dashboard">view dashboard</a>
