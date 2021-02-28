@@ -1,0 +1,50 @@
+.header {
+  text-align: center;
+  color: rgb(48, 61, 26);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.LewistonMap {
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+}
+.subheader {
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+}
+
+.map {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.links {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linkone {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linktwo {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linkthree {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
