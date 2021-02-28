@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/final-project-group-05/static/css/main.617f1ae8.chunk.css",
+    "main.js": "/final-project-group-05/static/js/main.53c84622.chunk.js",
+    "main.js.map": "/final-project-group-05/static/js/main.53c84622.chunk.js.map",
+    "runtime-main.js": "/final-project-group-05/static/js/runtime-main.ea5d9e6e.js",
+    "runtime-main.js.map": "/final-project-group-05/static/js/runtime-main.ea5d9e6e.js.map",
+    "static/js/2.25166ad8.chunk.js": "/final-project-group-05/static/js/2.25166ad8.chunk.js",
+    "static/js/2.25166ad8.chunk.js.map": "/final-project-group-05/static/js/2.25166ad8.chunk.js.map",
+    "static/js/3.2ef2407b.chunk.js": "/final-project-group-05/static/js/3.2ef2407b.chunk.js",
+    "static/js/3.2ef2407b.chunk.js.map": "/final-project-group-05/static/js/3.2ef2407b.chunk.js.map",
+    "index.html": "/final-project-group-05/index.html",
+    "static/css/main.617f1ae8.chunk.css.map": "/final-project-group-05/static/css/main.617f1ae8.chunk.css.map",
+    "static/js/2.25166ad8.chunk.js.LICENSE.txt": "/final-project-group-05/static/js/2.25166ad8.chunk.js.LICENSE.txt",
+    "static/media/LewistonMap.2e893ac9.png": "/final-project-group-05/static/media/LewistonMap.2e893ac9.png",
+    "static/media/hopeful.43288715.png": "/final-project-group-05/static/media/hopeful.43288715.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5d9e6e.js",
+    "static/js/2.25166ad8.chunk.js",
+    "static/css/main.617f1ae8.chunk.css",
+    "static/js/main.53c84622.chunk.js"
+  ]
+}
