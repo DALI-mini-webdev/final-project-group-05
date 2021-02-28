@@ -1,0 +1,124 @@
+.header {
+  text-align: center;
+  color: rgb(48, 61, 26);
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.LewistonMap {
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+}
+.subheader {
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  display: flex;
+}
+
+.map {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.links {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linkone {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linktwo {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.linkthree {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.VaccineInfo {
+  justify-content: center;
+  text-align: center;
+  display: flex;
+}
+
+.MaineVac {
+  display: flex;
+  justify-content: center;
+  color: black;
+  font-size: 14pt;
+  text-align: center;
+}
+
+.Goals {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  border-color: white;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 12pt;
+  text-align: start;
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+.Equitable {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  border-color: white;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 12pt;
+  text-align: start;
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+.Eligibility {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  border-color: white;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 12pt;
+  text-align: start;
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+.Dashboard {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  border-color: white;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 12pt;
+  text-align: start;
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
