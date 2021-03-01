@@ -10,7 +10,7 @@ export const MenuItems = [
         cName: 'nav-links'
     },
     {
-        title: 'Vaccine Information',
+        title: 'Testing + Vaccine Information',
         url: '#',
         cName: 'nav-links'
     },

@@ -17,7 +17,6 @@ class OtherResources extends Component {
       <a className="resource-container" href = "https://www.nami.org/Support-Education/NAMI-HelpLine/COVID-19-Information-and-Resources/COVID-19-Resource-and-Information-Guide">
       <h2> NAMI Covid Information Guide</h2>
       </a>
-      
     </div>
         )
     }
