@@ -35,7 +35,7 @@ class Home extends Component {
             <div><h2>ANDROSCOGGIN COUNTY COVID-19 TRACKER:</h2><p> insert API </p></div>
           </div>
           <div>
-            <img clasName="hopeful" src={hopeful} alt="Lewiston Hopeful Sign" />
+            <img clasName="hopeful" src={hopeful} alt="Lewiston Hopeful Sign" height="300px" />
           </div>
          </div>
            )
