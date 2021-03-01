@@ -1,0 +1,18 @@
+.tracker-container {
+    display: flex;
+    justify-content: flex-start;
+    color:black;
+    background-image:radial-gradient(#fff, 0%, #4b628bb9 50%);
+    border-color: white;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 11pt;
+    text-align: start;
+    padding: 20px;
+    margin: 5px;
+    width: 45%;
+    height: 100mm;
+  }
+#hopeful {
+    margin-left: 450px;
+}

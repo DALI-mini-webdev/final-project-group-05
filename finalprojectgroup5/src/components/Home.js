@@ -5,6 +5,7 @@ import {
     Switch,
     Route,
    } from "react-router-dom";
+import './Home.css';
 
 class Home extends Component {
     render() {
@@ -33,9 +34,7 @@ class Home extends Component {
           </div>
           <div className="tracker-container">
             <div><h2>ANDROSCOGGIN COUNTY COVID-19 TRACKER:</h2><p> insert API </p></div>
-          </div>
-          <div>
-            <img clasName="hopeful" src={hopeful} alt="Lewiston Hopeful Sign" height="300px" />
+            <div id="hopeful"><img clasName="hopeful" src={hopeful} alt="Lewiston Hopeful Sign" width="600px" height="415px"/></div>
           </div>
          </div>
            )
