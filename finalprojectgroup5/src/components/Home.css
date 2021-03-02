@@ -11,15 +11,19 @@
   #header1-container {
     display: flex;
     justify-content: center;
-  }
-  
-  .header1 {
     color:rgb(0, 0, 0); 
     background-color: white;
     font-size: 20pt;
     border-style: none;
     border-width: 20px;
     border-color: black;
+  }
+  
+  .header1 {
+    font-size: x-large;
+    font-weight: 800;
+    font-style: normal;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
   }
   
   .info-container {
