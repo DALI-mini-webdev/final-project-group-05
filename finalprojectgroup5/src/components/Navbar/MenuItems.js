@@ -1,22 +1,23 @@
 export const MenuItems = [
     {
         title: 'Home',
-        url: '#',
+        url: '',
         cName: 'nav-links'
     },
     {
         title: 'Symptom List + Self check',
-        url: '#',
+        url: 'SymptomTest',
         cName: 'nav-links'
     },
     {
         title: 'Testing + Vaccine Information',
-        url: '#',
+        url: 'TestingInfo',
         cName: 'nav-links'
     },
     {
         title: 'Other Resources',
-        url: '#',
-        cName: 'nav-links'
+        url: 'OtherResources',
+        cName: 'nav-links-mobile'
     },
+
 ] 
