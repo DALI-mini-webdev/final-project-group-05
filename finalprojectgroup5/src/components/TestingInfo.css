@@ -1,9 +1,37 @@
 .header {
   text-align: center;
-  color: rgb(48, 61, 26);
-  padding: 20px;
+  color: rgb(24, 26, 22);
+  padding: 30px;
   display: flex;
   justify-content: center;
+  background-image: radial-gradient(rgb(245, 238, 238), 0%, #618dec9a 50%);
+  margin: 20px;
+}
+
+.centering {
+  margin: 10px;
+  font-size: 14pt;
+}
+
+.centeringlast {
+  margin: 10px;
+  padding: 30px;
+  display: flex;
+}
+
+.list {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #97a9f09a 50%);
+  border-color: rgb(29, 26, 26);
+  border-radius: 10px;
+  border-style: solid;
+  font-size: 13pt;
+  text-align: start;
+  padding: 10px;
+  margin: 10px;
+  width: 50%;
 }
 
 .LewistonMap {
@@ -12,6 +40,7 @@
   padding: 20px;
   display: flex;
 }
+
 .subheader {
   justify-content: center;
   text-align: center;
@@ -29,24 +58,28 @@
   justify-content: center;
   text-align: center;
   display: flex;
+  font-size: 20pt;
 }
 
 .linkone {
   justify-content: center;
-  text-align: center;
+  text-align: justify;
   display: flex;
+  color: rgb(11, 9, 9);
 }
 
 .linktwo {
   justify-content: center;
   text-align: center;
   display: flex;
+  color: rgb(11, 9, 9);
 }
 
 .linkthree {
   justify-content: center;
   text-align: center;
   display: flex;
+  color: rgb(11, 9, 9);
 }
 
 .VaccineInfo {
@@ -67,29 +100,29 @@
   display: flex;
   justify-content: flex-start;
   color: black;
-  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  background-image: radial-gradient(#fff, 0%, #3b58db9a 50%);
   border-color: white;
   border-radius: 10px;
   border-style: none;
   font-size: 12pt;
   text-align: start;
   padding: 10px;
-  margin: 5px;
-  width: 40%;
+  margin: 10px;
+  width: 50%;
 }
 
 .Eligible {
   display: flex;
   justify-content: flex-start;
   color: black;
-  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  background-image: radial-gradient(#fff, 0%, #3b58db9a 50%);
   border-color: white;
   border-radius: 10px;
   border-style: none;
   font-size: 12pt;
   text-align: start;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   width: 40%;
 }
 
@@ -97,14 +130,14 @@
   display: flex;
   justify-content: flex-start;
   color: black;
-  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  background-image: radial-gradient(#fff, 0%, #3b58db9a 50%);
   border-color: white;
   border-radius: 10px;
   border-style: none;
   font-size: 12pt;
   text-align: start;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   width: 40%;
 }
 
@@ -112,14 +145,14 @@
   display: flex;
   justify-content: flex-start;
   color: black;
-  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  background-image: radial-gradient(#fff, 0%, #3b58db9a 50%);
   border-color: white;
   border-radius: 10px;
   border-style: none;
   font-size: 12pt;
   text-align: start;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   width: 40%;
 }
 
@@ -127,13 +160,13 @@
   display: flex;
   justify-content: flex-start;
   color: black;
-  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  background-image: radial-gradient(#fff, 0%, #3b58db9a 50%);
   border-color: white;
   border-radius: 10px;
   border-style: none;
   font-size: 12pt;
   text-align: start;
   padding: 10px;
-  margin: 5px;
+  margin: 10px;
   width: 40%;
 }
