@@ -1,0 +1,14 @@
+.resource-container {
+    display: flex;
+    justify-content: flex-start;
+    color:black;
+    background-image:radial-gradient(#fff, 0%, #3b58db9a 50%);
+    border-color: white;
+    border-radius: 10px;
+    border-style: none;
+    font-size: 12pt;
+    text-align: start;
+    padding: 10px;
+    margin: 5px;
+    width: 90%;
+  }

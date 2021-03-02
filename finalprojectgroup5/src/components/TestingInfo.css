@@ -78,7 +78,7 @@
   width: 40%;
 }
 
-.Equitable {
+.Eligible {
   display: flex;
   justify-content: flex-start;
   color: black;
@@ -109,6 +109,21 @@
 }
 
 .Dashboard {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  background-image: radial-gradient(#fff, 0%, #a2b0f09a 50%);
+  border-color: white;
+  border-radius: 10px;
+  border-style: none;
+  font-size: 12pt;
+  text-align: start;
+  padding: 10px;
+  margin: 5px;
+  width: 40%;
+}
+
+.Locations {
   display: flex;
   justify-content: flex-start;
   color: black;
