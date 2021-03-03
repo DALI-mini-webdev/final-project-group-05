@@ -18,13 +18,13 @@ import {
       <Router>
          <Navbar/>
         <Switch>
-          <Route path="/Testing + Vaccine Information">
+          <Route path="/TestingInfo">
             <TestingInfo />
           </Route>
-          <Route path="/Symptom List + Self check">
+          <Route path="/SymptomTest">
             <Assessment />
           </Route>
-          <Route path="/Other Resources">
+          <Route path="/OtherResources">
             <OtherResources />
           </Route>
           <Route path="/">

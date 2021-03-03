@@ -20,7 +20,9 @@ class Navbar extends Component {
                 <ul className={this.state.clicked ? 'nav-menu active' : 'nav-menu'}>
                   {MenuItems.map((item,index) => {
                       return (
-                         <Link to={`/${item.title}`}>{item.title}</Link>               
+                          <div className="nav-links">
+                         <Link to={`/${item.url}`} style={{textDecoration:"none", color: "white"}}>{item.title}</Link>   
+                         </div>            
                          )
                     })}
                 </ul>
