@@ -1,9 +1,11 @@
 import react, { Component } from 'react';
 import './OtherResources.css';
+import LewistonME from '../images/LewistonME.png';
 
 class OtherResources extends Component {
     render() {
         return ( 
+        <div>
             <div><h1> Other resources for Covid Information</h1>
       <a className="resource-container" href="https://www.lewistonpublicschools.org/covid-19-school-community-information-45f4095b">
           <h2>Lewiston Public Schools: School Community and Health Information</h2>
@@ -18,6 +20,9 @@ class OtherResources extends Component {
       <h2> NAMI Covid Information Guide</h2>
       </a>
     </div>
+    <img src={LewistonME} width="100%" height="500px" alt="Lewiston Aerial"></img>
+    </div>
+    
         )
     }
 }
