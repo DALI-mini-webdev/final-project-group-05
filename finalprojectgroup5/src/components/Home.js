@@ -22,7 +22,7 @@ class Home extends Component {
           <p id="header1-container" className="header1"> Lewiston, Maine COVID-19 Information </p>
           </div>
           <div className="info-container">
-            <div><h3><Link to="/SymptomTest">Sympton + Self Check</Link></h3><p>Concerned about your health? Use this test to self-check to see if you are eligible for a COVID-19 test or need to quarentine.</p></div>
+            <div><h3><Link to="/SymptomTest">Symptom + Self Check</Link></h3><p>Concerned about your health? Use this test to self-check to see if you are eligible for a COVID-19 test or need to quarentine.</p></div>
           </div>
           <div className="info-container">
             <div><h3><Link to="/TestingInfo">Testing + Vaccine Information</Link></h3><p> Find information on where to get tested in the Lewiston/Aurburn area as well as information on vaccination eligibility and clinic locations</p></div>
